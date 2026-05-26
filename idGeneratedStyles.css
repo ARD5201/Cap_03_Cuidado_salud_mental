@@ -24,9 +24,9 @@ body {
 	box-sizing: border-box;
 }
 p._0_lecturas-rec {
-	color:#000000;
-	font-family:NewCenturySchlbk, serif;
-	font-size:14px;
+	color:red !important;
+	font-family:NewCenturySchlbk, serif !important;
+	font-size:40px !important;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
