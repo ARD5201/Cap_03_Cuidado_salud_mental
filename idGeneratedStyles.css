@@ -82,6 +82,11 @@ div._idGenObjectStyleOverride-1 {
 	border-width:0px;
 }
 
+p {
+	color:red !important;
+	font-size:40px !important;
+}
+	
 @media (max-width: 768px) {
 
 	body{
