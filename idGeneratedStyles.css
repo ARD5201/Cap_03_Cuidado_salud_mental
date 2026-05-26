@@ -14,13 +14,20 @@ body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 	border-width:0;
 }
 body {
-	background:black !important;
+	-epub-hyphens:auto;
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: white;
+	box-sizing: border-box;
 }
 	
 p._0_lecturas-rec {
-	color:red !important;
-	font-family:NewCenturySchlbk, serif !important;
-	font-size:40px !important;
+	color:#000000;
+	font-family:NewCenturySchlbk, serif;
+	font-size:14px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -74,11 +81,6 @@ p.ParaOverride-2 {
 }
 div._idGenObjectStyleOverride-1 {
 	border-width:0px;
-}
-
-p {
-	color:red !important;
-	font-size:40px !important;
 }
 	
 @media (max-width: 768px) {
